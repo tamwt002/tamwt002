@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wallace Tamangani 👋</h1>
 
 <p align="center">
-  Software Engineer · Graduate Program at the Northern Territory Government (OCCIO)<br>
+  Software Engineer · Graduate Program at the Northern Territory Government (NT Health)<br>
   B.Eng (Hons) Software Engineering, University of South Australia
 </p>
 
