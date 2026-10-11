@@ -46,10 +46,6 @@ I build practical, reliable software across web, mobile and desktop. My backgrou
 - A members-only food blog and community platform. People apply for access, pay for membership and are approved by an admin before they can join in. Once inside, members can read posts and chat with other food lovers in the community. Behind the scenes it uses a secure, server-side login system and an admin dashboard for managing posts and members.
 `Next.js` `Firebase` `Stripe` `Tailwind CSS`
 
-**AI-Blog-author**
-- An automated pipeline that turns short-form videos into written blog posts. It pulls the audio from a video, transcribes it and uses AI to write a full article in a chosen author's voice. The finished article is sent to the blog as a draft, so nothing goes live without a human review. A local dashboard lets me run batches, tweak author styles and watch progress, and the whole thing can run on a schedule.
-`Python` `Whisper` `Claude API` `Next.js`
-
 ### Get in touch
 
 I'm open to software roles, collaborations and technical conversations. The quickest way is [email](mailto:wallace@woztech.world), or send a message through my [portfolio](https://wallace.woztech.world/#contact).
