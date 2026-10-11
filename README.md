@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wallace Tamangani 👋</h1>
+<h1 align="center">Hi, I'm Wallace T 👋🏿</h1>
 
 <p align="center">
   Software Engineer · Graduate Program at the Northern Territory Government (NT Health)<br>
