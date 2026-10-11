@@ -15,7 +15,7 @@
 
 ### About me
 
-I build practical, reliable software across web, mobile and desktop. My background spans full-stack development, business dashboards and enterprise systems, and I currently work on AI governance, digital transformation and technical documentation in government. I'm working towards my SAFe Agilist certification, with AWS Associate next.
+I build practical, reliable software across web, mobile and desktop. My background spans full-stack development, business dashboards and enterprise systems, and I currently work on AI governance, digital transformation, technical documentation and Data Quality in government. I'm working towards my SAFe Agilist certification, with AWS Associate next.
 
 ### Tech stack
 
