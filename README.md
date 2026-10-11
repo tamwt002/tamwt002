@@ -35,19 +35,19 @@ I build practical, reliable software across web, mobile and desktop. My backgrou
 
 ### My Favorite Private Projects
 **[WozPolls](https://wozpolls.woztech.world)**
-A polling and survey platform built for small teams and communities. Anyone can create a poll with set options or an open-ended survey and share it with a simple ID. Responses are collected securely, with one vote per signed-in user and an option for guests. Creators get a dashboard to manage their polls and view live results as they come in.
+- A polling and survey platform built for small teams and communities. Anyone can create a poll with set options or an open-ended survey and share it with a simple ID. Responses are collected securely, with one vote per signed-in user and an option for guests. Creators get a dashboard to manage their polls and view live results as they come in.
 `Next.js` `Firebase` `Tailwind CSS`
 
 **[EsteBot](https://estebot.woztech.world)**
-A website checker made for sites built quickly with AI tools. You paste in a URL and it looks for the SEO and security mistakes that these sites commonly ship with. Every issue it finds comes with a plain-English explanation and a severity rating. Each site also gets an overall grade and a ready-made prompt you can paste into your AI coding tool to fix the problem.
+- A website checker made for sites built quickly with AI tools. You paste in a URL and it looks for the SEO and security mistakes that these sites commonly ship with. Every issue it finds comes with a plain-English explanation and a severity rating. Each site also gets an overall grade and a ready-made prompt you can paste into your AI coding tool to fix the problem.
 `Next.js` `Node.js` `Tailwind CSS`
 
 **[BehindTheStack](https://www.behindthestack.org)**
-A members-only food blog and community platform. People apply for access, pay for membership and are approved by an admin before they can join in. Once inside, members can read posts and chat with other food lovers in the community. Behind the scenes it uses a secure, server-side login system and an admin dashboard for managing posts and members.
+- A members-only food blog and community platform. People apply for access, pay for membership and are approved by an admin before they can join in. Once inside, members can read posts and chat with other food lovers in the community. Behind the scenes it uses a secure, server-side login system and an admin dashboard for managing posts and members.
 `Next.js` `Firebase` `Stripe` `Tailwind CSS`
 
 **AI-Blog-author**
-An automated pipeline that turns short-form videos into written blog posts. It pulls the audio from a video, transcribes it and uses AI to write a full article in a chosen author's voice. The finished article is sent to the blog as a draft, so nothing goes live without a human review. A local dashboard lets me run batches, tweak author styles and watch progress, and the whole thing can run on a schedule.
+- An automated pipeline that turns short-form videos into written blog posts. It pulls the audio from a video, transcribes it and uses AI to write a full article in a chosen author's voice. The finished article is sent to the blog as a draft, so nothing goes live without a human review. A local dashboard lets me run batches, tweak author styles and watch progress, and the whole thing can run on a schedule.
 `Python` `Whisper` `Claude API` `Next.js`
 
 ### Get in touch
